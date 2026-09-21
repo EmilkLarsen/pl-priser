@@ -41,7 +41,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        chain: [castorama_pl]
+        chain: [castorama_pl, obi_pl]
     steps:
       - uses: actions/checkout@v4
         with:

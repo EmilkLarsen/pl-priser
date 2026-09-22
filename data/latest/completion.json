@@ -1,8 +1,12 @@
 {
- "date": "2026-09-21",
+ "date": "2026-09-22",
  "detail": {
   "castorama_pl": {
    "rows": 40,
+   "complete": false
+  },
+  "obi_pl": {
+   "rows": 0,
    "complete": false
   }
  }

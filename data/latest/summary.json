@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "total_rows": 221057,
+ "total_rows": 221062,
  "chains": {
   "obi_pl": {
    "products": 88901,
@@ -10,11 +10,11 @@
    "seconds": 547.8
   },
   "castorama_pl": {
-   "products": 68775,
+   "products": 84484,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18161.0
+   "seconds": 18004.4
   }
  }
 }

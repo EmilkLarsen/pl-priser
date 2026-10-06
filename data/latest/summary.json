@@ -3,18 +3,18 @@
  "total_rows": 221601,
  "chains": {
   "obi_pl": {
-   "products": 39149,
+   "products": 78527,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18002.2
+   "seconds": 18002.6
   },
   "castorama_pl": {
-   "products": 132260,
+   "products": 15254,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 3562.3
+   "seconds": 18003.5
   }
  }
 }

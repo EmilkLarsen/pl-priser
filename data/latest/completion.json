@@ -2,8 +2,8 @@
  "date": "2026-10-06",
  "detail": {
   "castorama_pl": {
-   "rows": 132746,
-   "complete": false
+   "rows": 132764,
+   "complete": true
   },
   "obi_pl": {
    "rows": 88837,

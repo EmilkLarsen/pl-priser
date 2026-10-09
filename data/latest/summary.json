@@ -7,14 +7,14 @@
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 10.0
+   "seconds": 9.9
   },
   "castorama_pl": {
-   "products": 132283,
+   "products": 14539,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 7741.0
+   "seconds": 18058.1
   }
  }
 }

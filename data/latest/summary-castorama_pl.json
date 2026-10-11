@@ -2,11 +2,11 @@
  "date": "2026-10-10",
  "chains": {
   "castorama_pl": {
-   "products": 46885,
+   "products": 59283,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18020.5
+   "seconds": 18171.2
   }
  }
 }

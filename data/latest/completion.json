@@ -1,12 +1,12 @@
 {
- "date": "2026-10-17",
+ "date": "2026-10-18",
  "detail": {
   "castorama_pl": {
-   "rows": 134121,
+   "rows": 134179,
    "complete": false
   },
   "obi_pl": {
-   "rows": 90360,
+   "rows": 90361,
    "complete": false
   }
  }

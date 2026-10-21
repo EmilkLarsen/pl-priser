@@ -2,11 +2,11 @@
  "date": "2026-10-21",
  "chains": {
   "obi_pl": {
-   "products": 77999,
+   "products": 89601,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18004.2
+   "seconds": 5393.7
   }
  }
 }

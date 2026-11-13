@@ -1,13 +1,13 @@
 {
  "date": "2026-11-13",
- "total_rows": 229383,
+ "total_rows": 229399,
  "chains": {
   "castorama_pl": {
-   "products": 61643,
+   "products": 74923,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18212.0
+   "seconds": 18004.2
   },
   "obi_pl": {
    "error": "collapse guard: 30 rows vs 98280 before",

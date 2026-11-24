@@ -2,12 +2,12 @@
  "date": "2026-11-24",
  "detail": {
   "castorama_pl": {
-   "rows": 129533,
+   "rows": 129558,
    "complete": false
   },
   "obi_pl": {
-   "rows": 101120,
-   "complete": false
+   "rows": 101067,
+   "complete": true
   }
  }
 }
